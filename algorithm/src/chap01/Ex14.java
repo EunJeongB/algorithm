@@ -2,7 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-
+// 수정 테스트
 public class Ex14 {
 
 	public static void main(String[] args) {
